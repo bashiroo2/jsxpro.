@@ -10,15 +10,17 @@
 }
 
 .my-card {
-  width: 300px;
-  margin-top: 6%;
+  content: center;
+  width: 25%;
+  height: 20%;
+  margin-top: 4%;
   position: absolute;
-  top: 100px;
-  right: 900px;
+  top: 10%;
 color: rgb(0, 0, 0);
 text-shadow: 0 2px 4px  rgb(255, 255, 255);
 text-overflow: unset;
-margin-left: 5%;
+
+text-align: center;
 }
 
 .greeting {
@@ -46,8 +48,8 @@ margin-left: 5%;
 }
 
 .product-image {
-  width: 150%;
-  height: 150%;
+  width: 100%;
+  height: 100%;
   position: center;
 
 }
